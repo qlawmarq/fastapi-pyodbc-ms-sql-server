@@ -1,10 +1,10 @@
 FROM cymagix/python-for-pyodbc-sqlserver
 
 # .env
-ENV DATABASE_USERNAME=''
-ENV DATABASE_PASSWORD=''
-ENV DATABASE_HOST=''
-ENV APPLICATION_DB=''  
+ENV DATABASE_USERNAME='sqlserver'
+ENV DATABASE_PASSWORD='P4SSW0RD!'
+ENV DATABASE_HOST='127.0.0.1'
+ENV APPLICATION_DB='tmpdb'  
 
 # timezone
 ENV TZ Australia/Brisbane
