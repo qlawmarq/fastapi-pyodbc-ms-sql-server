@@ -1,0 +1,8 @@
+fastapi == 0.78.0
+uvicorn == 0.15.0
+python-dotenv == 0.19.1
+pyodbc == 4.0.32
+requests == 2.27.1
+python-multipart == 0.0.5
+google == 3.0.0
+google-cloud-storage == 1.42.3

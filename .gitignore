@@ -1,0 +1,5 @@
+# API Server
+__pycache__
+frontend/package-lock.json
+
+.DS_Store
